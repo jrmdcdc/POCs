@@ -1,0 +1,9 @@
+C:\Users\jdcruz1\source\repos\testxml\testxml\bin\Debug\testxml.exe.config
+C:\Users\jdcruz1\source\repos\testxml\testxml\bin\Debug\testxml.exe
+C:\Users\jdcruz1\source\repos\testxml\testxml\bin\Debug\testxml.pdb
+C:\Users\jdcruz1\source\repos\testxml\testxml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jdcruz1\source\repos\testxml\testxml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jdcruz1\source\repos\testxml\testxml\obj\Debug\testxml.csprojAssemblyReference.cache
+C:\Users\jdcruz1\source\repos\testxml\testxml\obj\Debug\testxml.csproj.CopyComplete
+C:\Users\jdcruz1\source\repos\testxml\testxml\obj\Debug\testxml.exe
+C:\Users\jdcruz1\source\repos\testxml\testxml\obj\Debug\testxml.pdb
